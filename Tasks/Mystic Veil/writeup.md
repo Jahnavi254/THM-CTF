@@ -4,7 +4,7 @@
 ## 📌 Challenge Description  
 A seemingly ordinary file conceals a hidden secret beneath a cryptic transformation. The process is subtle, with little to go on. Your task is to break through the veil and uncover what lies beneath. Good luck!
 
-Challenge files: [Encryption Script](Tasks/MysticVeil/Encrypt.py)
+Challenge files: [Encryption Script](Encrypt.py)
 
 Challenge files: ![Image](image.jpg.thmh)
 
@@ -27,7 +27,7 @@ Using the given encryption logic, the decryption involved:
 ✅ **Removing PKCS Padding**  
 
 ### **⚙️ 3. Execution & Results**  
-Decryption was performed and the logic was in  [Decryption Script](Tasks/MysticVeil/Decrypt.py).
+Decryption was performed and the logic was in  [Decryption Script](Decrypt.py).
 
 📌 **Decryption successful!** The **image was restored**, revealing **hidden data**.  
 
