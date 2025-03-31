@@ -2,7 +2,7 @@
 
 📅 **Date:** March 29, 2025  
 
-I participated in **THM CTF** and successfully completed all challenges, ranking **Top 5**. This repository contains my write-ups and solutions.
+I participated in **THM CTF** and successfully completed all challenges, Ranked **Runner-Up**. This repository contains my write-ups and solutions.
 
 ## 🚀 Completed Challenges
 | Challenge Name | Category | Write-up |
