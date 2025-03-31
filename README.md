@@ -9,7 +9,7 @@ I participated in **THM CTF** and successfully completed all challenges, ranking
 |---------------|----------|----------|
 | Phantom Login | Web Exploitation | [Write-up](Tasks/Phantom%20Login/writeup.md) |
 | Mystic Veil | Cryptography | [Write-up](Tasks/Mystic%20Veil/writeup.md) |
-| Phantom Format | Forensics / Steganography | [Write-up](Tasks/Phantom%20Format/writeup.md) |
+| Phantom Format | Forensics / Steganography | [Write-up](Tasks/%20Phantom%20Format/writeup.md) |
 
 ## 🔍 Key Takeaways
 - **Web Exploitation**: Identifying security vulnerabilities in web applications.
